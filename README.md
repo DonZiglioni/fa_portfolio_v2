@@ -1,7 +1,6 @@
 # Frank Azzaro
 
-## [https://frankazzaro.com](https://frankazzaro.com) 
-
+### [https://frankazzaro.com](https://frankazzaro.com) 
 
 ```javascript
     let failures = [∞];
@@ -18,5 +17,3 @@
 
     tryAgain(failures);
 ```
-
-## [https://frankazzaro.com](https://frankazzaro.com) 
